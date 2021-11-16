@@ -1,0 +1,18 @@
+Wanted Testing
+
+Low Level Test
+
+- Does the "Enter Wanted" button navigate people to that respective page? PASS
+
+- "Sex" dropdown has dropdown of Female, Male, Other, and Unknown -PASS
+
+
+High Level Test for Results that will:
+
+- Does the site allow users to modify wanted queries? PASS
+
+- Does the site allow users to cancel wanted queries? PASS
+
+Smoke System Test
+
+- Does the site allow people to create wanted queries? PASS
